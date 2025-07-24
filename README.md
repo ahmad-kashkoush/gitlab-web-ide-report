@@ -91,6 +91,16 @@ I've learnt a lot of technical and interpersonal skills from participating at GS
 - How to learn a tool or technology very fast
 
 
+## Note of Thanks
+
+I would like to thank my mentor and the wider community for their support, special thanks to: 
+- [Enrique Alcántara](https://gitlab.com/ealcantara) 
+- [Nick Veenhof](https://gitlab.com/nick_vh) 
+- [Niku Singh](https://gitlab.com/NIKU-SINGH)  
+- [Lee ticket](https://gitlab.com/leetickett-gitlab)
+- [Adebayo Adesanya](https://gitlab.com/adebayo_a) 
+- [Marcel van Remmerden](https://gitlab.com/mvanremmerden)
+
 
 ## Future Involvements with the GitLab
 
